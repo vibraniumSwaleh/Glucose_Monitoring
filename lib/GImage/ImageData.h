@@ -44,6 +44,11 @@ extern const unsigned char gImage_1inch44_1[];
 extern const unsigned char gImage_1inch8_1[];
 extern const unsigned char gImage_1inch3_1[];
 extern const unsigned char gImage_2inch_1[];
+
+extern const unsigned char BL_Icon[];
+extern const unsigned char Dashboard_Icon[];
+extern const unsigned char	*Graphicx[];
+
 #endif
 /* FILE END */
 
