@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles/ELF2UF2Build
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles/ELF2UF2Build.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
