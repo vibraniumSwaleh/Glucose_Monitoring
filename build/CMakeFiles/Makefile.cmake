@@ -18,6 +18,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../lib/Fonts/CMakeLists.txt"
   "../lib/GImage/CMakeLists.txt"
   "../lib/GUI/CMakeLists.txt"
+  "../lib/Menu/CMakeLists.txt"
   "../lib/OLED/CMakeLists.txt"
   "../pico_sdk_import.cmake"
   "/home/ghost/pico/pico-sdk/CMakeLists.txt"
@@ -244,6 +245,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "lib/Fonts/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lib/GUI/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lib/GImage/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lib/Menu/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -260,4 +262,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "lib/Fonts/CMakeFiles/Fonts.dir/DependInfo.cmake"
   "lib/GUI/CMakeFiles/GUI.dir/DependInfo.cmake"
   "lib/GImage/CMakeFiles/GImage.dir/DependInfo.cmake"
+  "lib/Menu/CMakeFiles/Menu.dir/DependInfo.cmake"
   )

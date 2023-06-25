@@ -110,8 +110,6 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.c" "lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj.d"
-  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.c" "lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c.obj.d"
@@ -148,6 +146,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.cpp" "lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj.d"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.cpp" "lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" "gcc" "lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d"
   )
 

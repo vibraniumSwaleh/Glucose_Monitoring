@@ -1,2 +1,2 @@
-/usr/bin/arm-none-eabi-ar qc libGImage.a CMakeFiles/GImage.dir/ImageData.c.obj
+/usr/bin/arm-none-eabi-ar qc libGImage.a CMakeFiles/GImage.dir/ImageData.cpp.obj
 /usr/bin/arm-none-eabi-ranlib libGImage.a

@@ -130,29 +130,29 @@ GImage/fast:
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/build
 .PHONY : GImage/fast
 
-ImageData.obj: ImageData.c.obj
+ImageData.obj: ImageData.cpp.obj
 .PHONY : ImageData.obj
 
 # target to build an object file
-ImageData.c.obj:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj
-.PHONY : ImageData.c.obj
+ImageData.cpp.obj:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj
+.PHONY : ImageData.cpp.obj
 
-ImageData.i: ImageData.c.i
+ImageData.i: ImageData.cpp.i
 .PHONY : ImageData.i
 
 # target to preprocess a source file
-ImageData.c.i:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.c.i
-.PHONY : ImageData.c.i
+ImageData.cpp.i:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.i
+.PHONY : ImageData.cpp.i
 
-ImageData.s: ImageData.c.s
+ImageData.s: ImageData.cpp.s
 .PHONY : ImageData.s
 
 # target to generate assembly for a file
-ImageData.c.s:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.c.s
-.PHONY : ImageData.c.s
+ImageData.cpp.s:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.s
+.PHONY : ImageData.cpp.s
 
 # Help Target
 help:

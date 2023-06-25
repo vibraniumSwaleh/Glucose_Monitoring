@@ -69,19 +69,19 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
-CMakeFiles/main.dir/main.c.obj: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/main.c.obj: ../main.c
-CMakeFiles/main.dir/main.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.obj -MF CMakeFiles/main.dir/main.c.obj.d -o CMakeFiles/main.dir/main.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.c
+CMakeFiles/main.dir/main.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/main.cpp.obj: ../main.cpp
+CMakeFiles/main.dir/main.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.obj -MF CMakeFiles/main.dir/main.cpp.obj.d -o CMakeFiles/main.dir/main.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.cpp
 
-CMakeFiles/main.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/main.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.c > CMakeFiles/main.dir/main.c.i
+CMakeFiles/main.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.cpp > CMakeFiles/main.dir/main.cpp.i
 
-CMakeFiles/main.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/main.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.c -o CMakeFiles/main.dir/main.c.s
+CMakeFiles/main.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
@@ -1082,7 +1082,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/main.c.obj" \
+"CMakeFiles/main.dir/main.cpp.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -1159,7 +1159,7 @@ main_OBJECTS = \
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-main.elf: CMakeFiles/main.dir/main.c.obj
+main.elf: CMakeFiles/main.dir/main.cpp.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
@@ -1234,9 +1234,12 @@ main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
 main.elf: CMakeFiles/main.dir/build.make
 main.elf: lib/OLED/libOLED.a
+main.elf: lib/Menu/libMenu.a
 main.elf: lib/GUI/libGUI.a
 main.elf: lib/Fonts/libFonts.a
 main.elf: lib/GImage/libGImage.a
+main.elf: lib/Config/libConfig.a
+main.elf: lib/OLED/libOLED.a
 main.elf: lib/Config/libConfig.a
 main.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 main.elf: CMakeFiles/main.dir/link.txt

@@ -130,29 +130,29 @@ GUI/fast:
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/build
 .PHONY : GUI/fast
 
-GUI_Paint.obj: GUI_Paint.c.obj
+GUI_Paint.obj: GUI_Paint.cpp.obj
 .PHONY : GUI_Paint.obj
 
 # target to build an object file
-GUI_Paint.c.obj:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj
-.PHONY : GUI_Paint.c.obj
+GUI_Paint.cpp.obj:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj
+.PHONY : GUI_Paint.cpp.obj
 
-GUI_Paint.i: GUI_Paint.c.i
+GUI_Paint.i: GUI_Paint.cpp.i
 .PHONY : GUI_Paint.i
 
 # target to preprocess a source file
-GUI_Paint.c.i:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.i
-.PHONY : GUI_Paint.c.i
+GUI_Paint.cpp.i:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.i
+.PHONY : GUI_Paint.cpp.i
 
-GUI_Paint.s: GUI_Paint.c.s
+GUI_Paint.s: GUI_Paint.cpp.s
 .PHONY : GUI_Paint.s
 
 # target to generate assembly for a file
-GUI_Paint.c.s:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.s
-.PHONY : GUI_Paint.c.s
+GUI_Paint.cpp.s:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/GUI/CMakeFiles/GUI.dir/build.make lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.s
+.PHONY : GUI_Paint.cpp.s
 
 home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj: home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj

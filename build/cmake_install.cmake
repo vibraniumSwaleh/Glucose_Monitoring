@@ -45,6 +45,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Fonts/cmake_install.cmake")
   include("/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI/cmake_install.cmake")
   include("/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage/cmake_install.cmake")
+  include("/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Menu/cmake_install.cmake")
 
 endif()
 

@@ -132,8 +132,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
   "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
-  "CMakeFiles/main.dir/main.c.obj"
-  "CMakeFiles/main.dir/main.c.obj.d"
+  "CMakeFiles/main.dir/main.cpp.obj"
+  "CMakeFiles/main.dir/main.cpp.obj.d"
   "main.elf"
   "main.pdb"
 )

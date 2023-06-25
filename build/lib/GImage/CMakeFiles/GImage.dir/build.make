@@ -69,31 +69,31 @@ include lib/GImage/CMakeFiles/GImage.dir/progress.make
 # Include the compile flags for this target's objects.
 include lib/GImage/CMakeFiles/GImage.dir/flags.make
 
-lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj: lib/GImage/CMakeFiles/GImage.dir/flags.make
-lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj: ../lib/GImage/ImageData.c
-lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj: lib/GImage/CMakeFiles/GImage.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj -MF CMakeFiles/GImage.dir/ImageData.c.obj.d -o CMakeFiles/GImage.dir/ImageData.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.c
+lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj: lib/GImage/CMakeFiles/GImage.dir/flags.make
+lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj: ../lib/GImage/ImageData.cpp
+lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj: lib/GImage/CMakeFiles/GImage.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj -MF CMakeFiles/GImage.dir/ImageData.cpp.obj.d -o CMakeFiles/GImage.dir/ImageData.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.cpp
 
-lib/GImage/CMakeFiles/GImage.dir/ImageData.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/GImage.dir/ImageData.c.i"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.c > CMakeFiles/GImage.dir/ImageData.c.i
+lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GImage.dir/ImageData.cpp.i"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.cpp > CMakeFiles/GImage.dir/ImageData.cpp.i
 
-lib/GImage/CMakeFiles/GImage.dir/ImageData.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/GImage.dir/ImageData.c.s"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.c -o CMakeFiles/GImage.dir/ImageData.c.s
+lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GImage.dir/ImageData.cpp.s"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.cpp -o CMakeFiles/GImage.dir/ImageData.cpp.s
 
 # Object files for target GImage
 GImage_OBJECTS = \
-"CMakeFiles/GImage.dir/ImageData.c.obj"
+"CMakeFiles/GImage.dir/ImageData.cpp.obj"
 
 # External object files for target GImage
 GImage_EXTERNAL_OBJECTS =
 
-lib/GImage/libGImage.a: lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj
+lib/GImage/libGImage.a: lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj
 lib/GImage/libGImage.a: lib/GImage/CMakeFiles/GImage.dir/build.make
 lib/GImage/libGImage.a: lib/GImage/CMakeFiles/GImage.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libGImage.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libGImage.a"
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && $(CMAKE_COMMAND) -P CMakeFiles/GImage.dir/cmake_clean_target.cmake
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GImage.dir/link.txt --verbose=$(VERBOSE)
 

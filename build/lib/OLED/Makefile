@@ -130,53 +130,53 @@ OLED/fast:
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/build
 .PHONY : OLED/fast
 
-OLED_1in3_c.obj: OLED_1in3_c.c.obj
+OLED_1in3_c.obj: OLED_1in3_c.cpp.obj
 .PHONY : OLED_1in3_c.obj
 
 # target to build an object file
-OLED_1in3_c.c.obj:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj
-.PHONY : OLED_1in3_c.c.obj
+OLED_1in3_c.cpp.obj:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj
+.PHONY : OLED_1in3_c.cpp.obj
 
-OLED_1in3_c.i: OLED_1in3_c.c.i
+OLED_1in3_c.i: OLED_1in3_c.cpp.i
 .PHONY : OLED_1in3_c.i
 
 # target to preprocess a source file
-OLED_1in3_c.c.i:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.i
-.PHONY : OLED_1in3_c.c.i
+OLED_1in3_c.cpp.i:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.i
+.PHONY : OLED_1in3_c.cpp.i
 
-OLED_1in3_c.s: OLED_1in3_c.c.s
+OLED_1in3_c.s: OLED_1in3_c.cpp.s
 .PHONY : OLED_1in3_c.s
 
 # target to generate assembly for a file
-OLED_1in3_c.c.s:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.s
-.PHONY : OLED_1in3_c.c.s
+OLED_1in3_c.cpp.s:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.s
+.PHONY : OLED_1in3_c.cpp.s
 
-OLED_2in23.obj: OLED_2in23.c.obj
+OLED_2in23.obj: OLED_2in23.cpp.obj
 .PHONY : OLED_2in23.obj
 
 # target to build an object file
-OLED_2in23.c.obj:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj
-.PHONY : OLED_2in23.c.obj
+OLED_2in23.cpp.obj:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj
+.PHONY : OLED_2in23.cpp.obj
 
-OLED_2in23.i: OLED_2in23.c.i
+OLED_2in23.i: OLED_2in23.cpp.i
 .PHONY : OLED_2in23.i
 
 # target to preprocess a source file
-OLED_2in23.c.i:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.i
-.PHONY : OLED_2in23.c.i
+OLED_2in23.cpp.i:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.i
+.PHONY : OLED_2in23.cpp.i
 
-OLED_2in23.s: OLED_2in23.c.s
+OLED_2in23.s: OLED_2in23.cpp.s
 .PHONY : OLED_2in23.s
 
 # target to generate assembly for a file
-OLED_2in23.c.s:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.s
-.PHONY : OLED_2in23.c.s
+OLED_2in23.cpp.s:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/OLED/CMakeFiles/OLED.dir/build.make lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.s
+.PHONY : OLED_2in23.cpp.s
 
 home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj: home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj

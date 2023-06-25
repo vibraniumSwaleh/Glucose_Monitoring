@@ -74,6 +74,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   ".././lib/GUI"
   ".././lib/OLED"
   ".././lib/GImage"
+  ".././lib/Menu"
   "/home/ghost/pico/pico-sdk/src/common/pico_stdlib/include"
   "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
   "/home/ghost/pico/pico-sdk/src/common/pico_base/include"
@@ -188,13 +189,14 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" "gcc" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" "gcc" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" "gcc" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
-  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.c" "CMakeFiles/main.dir/main.c.obj" "gcc" "CMakeFiles/main.dir/main.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" "gcc" "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED/CMakeFiles/OLED.dir/DependInfo.cmake"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Menu/CMakeFiles/Menu.dir/DependInfo.cmake"
   "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI/CMakeFiles/GUI.dir/DependInfo.cmake"
   "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Fonts/CMakeFiles/Fonts.dir/DependInfo.cmake"
   "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage/CMakeFiles/GImage.dir/DependInfo.cmake"

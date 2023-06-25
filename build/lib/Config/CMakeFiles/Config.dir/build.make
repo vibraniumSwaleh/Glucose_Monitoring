@@ -69,19 +69,19 @@ include lib/Config/CMakeFiles/Config.dir/progress.make
 # Include the compile flags for this target's objects.
 include lib/Config/CMakeFiles/Config.dir/flags.make
 
-lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj: lib/Config/CMakeFiles/Config.dir/flags.make
-lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj: ../lib/Config/DEV_Config.c
-lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj: lib/Config/CMakeFiles/Config.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj -MF CMakeFiles/Config.dir/DEV_Config.c.obj.d -o CMakeFiles/Config.dir/DEV_Config.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.c
+lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj: lib/Config/CMakeFiles/Config.dir/flags.make
+lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj: ../lib/Config/DEV_Config.cpp
+lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj: lib/Config/CMakeFiles/Config.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj -MF CMakeFiles/Config.dir/DEV_Config.cpp.obj.d -o CMakeFiles/Config.dir/DEV_Config.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.cpp
 
-lib/Config/CMakeFiles/Config.dir/DEV_Config.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Config.dir/DEV_Config.c.i"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.c > CMakeFiles/Config.dir/DEV_Config.c.i
+lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Config.dir/DEV_Config.cpp.i"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.cpp > CMakeFiles/Config.dir/DEV_Config.cpp.i
 
-lib/Config/CMakeFiles/Config.dir/DEV_Config.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Config.dir/DEV_Config.c.s"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.c -o CMakeFiles/Config.dir/DEV_Config.c.s
+lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Config.dir/DEV_Config.cpp.s"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Config && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.cpp -o CMakeFiles/Config.dir/DEV_Config.cpp.s
 
 lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: lib/Config/CMakeFiles/Config.dir/flags.make
 lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
@@ -746,7 +746,7 @@ lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardwar
 
 # Object files for target Config
 Config_OBJECTS = \
-"CMakeFiles/Config.dir/DEV_Config.c.obj" \
+"CMakeFiles/Config.dir/DEV_Config.cpp.obj" \
 "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -799,7 +799,7 @@ Config_OBJECTS = \
 # External object files for target Config
 Config_EXTERNAL_OBJECTS =
 
-lib/Config/libConfig.a: lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj
+lib/Config/libConfig.a: lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj
 lib/Config/libConfig.a: lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 lib/Config/libConfig.a: lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 lib/Config/libConfig.a: lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj

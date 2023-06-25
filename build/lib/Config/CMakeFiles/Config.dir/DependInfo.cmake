@@ -109,7 +109,6 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.c" "lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c.obj.d"
@@ -146,6 +145,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/Config/DEV_Config.cpp" "lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj.d"
   "/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" "gcc" "lib/Config/CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d"
   )
 

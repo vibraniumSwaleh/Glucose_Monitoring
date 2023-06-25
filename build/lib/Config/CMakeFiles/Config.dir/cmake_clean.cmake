@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Config.dir/DEV_Config.c.obj"
-  "CMakeFiles/Config.dir/DEV_Config.c.obj.d"
+  "CMakeFiles/Config.dir/DEV_Config.cpp.obj"
+  "CMakeFiles/Config.dir/DEV_Config.cpp.obj.d"
   "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
   "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj.d"
   "CMakeFiles/Config.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"

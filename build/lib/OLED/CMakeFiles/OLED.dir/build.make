@@ -69,33 +69,33 @@ include lib/OLED/CMakeFiles/OLED.dir/progress.make
 # Include the compile flags for this target's objects.
 include lib/OLED/CMakeFiles/OLED.dir/flags.make
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj: lib/OLED/CMakeFiles/OLED.dir/flags.make
-lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj: ../lib/OLED/OLED_1in3_c.c
-lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj: lib/OLED/CMakeFiles/OLED.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj -MF CMakeFiles/OLED.dir/OLED_1in3_c.c.obj.d -o CMakeFiles/OLED.dir/OLED_1in3_c.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.c
+lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj: lib/OLED/CMakeFiles/OLED.dir/flags.make
+lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj: ../lib/OLED/OLED_1in3_c.cpp
+lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj: lib/OLED/CMakeFiles/OLED.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj -MF CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj.d -o CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.cpp
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OLED.dir/OLED_1in3_c.c.i"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.c > CMakeFiles/OLED.dir/OLED_1in3_c.c.i
+lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OLED.dir/OLED_1in3_c.cpp.i"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.cpp > CMakeFiles/OLED.dir/OLED_1in3_c.cpp.i
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OLED.dir/OLED_1in3_c.c.s"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.c -o CMakeFiles/OLED.dir/OLED_1in3_c.c.s
+lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OLED.dir/OLED_1in3_c.cpp.s"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_1in3_c.cpp -o CMakeFiles/OLED.dir/OLED_1in3_c.cpp.s
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj: lib/OLED/CMakeFiles/OLED.dir/flags.make
-lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj: ../lib/OLED/OLED_2in23.c
-lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj: lib/OLED/CMakeFiles/OLED.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj -MF CMakeFiles/OLED.dir/OLED_2in23.c.obj.d -o CMakeFiles/OLED.dir/OLED_2in23.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.c
+lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj: lib/OLED/CMakeFiles/OLED.dir/flags.make
+lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj: ../lib/OLED/OLED_2in23.cpp
+lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj: lib/OLED/CMakeFiles/OLED.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj -MF CMakeFiles/OLED.dir/OLED_2in23.cpp.obj.d -o CMakeFiles/OLED.dir/OLED_2in23.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.cpp
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OLED.dir/OLED_2in23.c.i"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.c > CMakeFiles/OLED.dir/OLED_2in23.c.i
+lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OLED.dir/OLED_2in23.cpp.i"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.cpp > CMakeFiles/OLED.dir/OLED_2in23.cpp.i
 
-lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OLED.dir/OLED_2in23.c.s"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.c -o CMakeFiles/OLED.dir/OLED_2in23.c.s
+lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OLED.dir/OLED_2in23.cpp.s"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/OLED && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/OLED/OLED_2in23.cpp -o CMakeFiles/OLED.dir/OLED_2in23.cpp.s
 
 lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: lib/OLED/CMakeFiles/OLED.dir/flags.make
 lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
@@ -760,8 +760,8 @@ lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_ad
 
 # Object files for target OLED
 OLED_OBJECTS = \
-"CMakeFiles/OLED.dir/OLED_1in3_c.c.obj" \
-"CMakeFiles/OLED.dir/OLED_2in23.c.obj" \
+"CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj" \
+"CMakeFiles/OLED.dir/OLED_2in23.cpp.obj" \
 "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -814,8 +814,8 @@ OLED_OBJECTS = \
 # External object files for target OLED
 OLED_EXTERNAL_OBJECTS =
 
-lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.c.obj
-lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.c.obj
+lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj
+lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/OLED_2in23.cpp.obj
 lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 lib/OLED/libOLED.a: lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj

@@ -69,19 +69,19 @@ include lib/GUI/CMakeFiles/GUI.dir/progress.make
 # Include the compile flags for this target's objects.
 include lib/GUI/CMakeFiles/GUI.dir/flags.make
 
-lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj: lib/GUI/CMakeFiles/GUI.dir/flags.make
-lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj: ../lib/GUI/GUI_Paint.c
-lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj: lib/GUI/CMakeFiles/GUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj -MF CMakeFiles/GUI.dir/GUI_Paint.c.obj.d -o CMakeFiles/GUI.dir/GUI_Paint.c.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.c
+lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj: lib/GUI/CMakeFiles/GUI.dir/flags.make
+lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj: ../lib/GUI/GUI_Paint.cpp
+lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj: lib/GUI/CMakeFiles/GUI.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj -MF CMakeFiles/GUI.dir/GUI_Paint.cpp.obj.d -o CMakeFiles/GUI.dir/GUI_Paint.cpp.obj -c /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.cpp
 
-lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/GUI.dir/GUI_Paint.c.i"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.c > CMakeFiles/GUI.dir/GUI_Paint.c.i
+lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GUI.dir/GUI_Paint.cpp.i"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.cpp > CMakeFiles/GUI.dir/GUI_Paint.cpp.i
 
-lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/GUI.dir/GUI_Paint.c.s"
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.c -o CMakeFiles/GUI.dir/GUI_Paint.c.s
+lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GUI.dir/GUI_Paint.cpp.s"
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GUI && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GUI/GUI_Paint.cpp -o CMakeFiles/GUI.dir/GUI_Paint.cpp.s
 
 lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: lib/GUI/CMakeFiles/GUI.dir/flags.make
 lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
@@ -746,7 +746,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/
 
 # Object files for target GUI
 GUI_OBJECTS = \
-"CMakeFiles/GUI.dir/GUI_Paint.c.obj" \
+"CMakeFiles/GUI.dir/GUI_Paint.cpp.obj" \
 "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -799,7 +799,7 @@ GUI_OBJECTS = \
 # External object files for target GUI
 GUI_EXTERNAL_OBJECTS =
 
-lib/GUI/libGUI.a: lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.c.obj
+lib/GUI/libGUI.a: lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj
 lib/GUI/libGUI.a: lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 lib/GUI/libGUI.a: lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 lib/GUI/libGUI.a: lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj

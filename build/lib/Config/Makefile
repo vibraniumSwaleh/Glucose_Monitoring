@@ -130,29 +130,29 @@ Config/fast:
 	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/build
 .PHONY : Config/fast
 
-DEV_Config.obj: DEV_Config.c.obj
+DEV_Config.obj: DEV_Config.cpp.obj
 .PHONY : DEV_Config.obj
 
 # target to build an object file
-DEV_Config.c.obj:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.c.obj
-.PHONY : DEV_Config.c.obj
+DEV_Config.cpp.obj:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.obj
+.PHONY : DEV_Config.cpp.obj
 
-DEV_Config.i: DEV_Config.c.i
+DEV_Config.i: DEV_Config.cpp.i
 .PHONY : DEV_Config.i
 
 # target to preprocess a source file
-DEV_Config.c.i:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.c.i
-.PHONY : DEV_Config.c.i
+DEV_Config.cpp.i:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.i
+.PHONY : DEV_Config.cpp.i
 
-DEV_Config.s: DEV_Config.c.s
+DEV_Config.s: DEV_Config.cpp.s
 .PHONY : DEV_Config.s
 
 # target to generate assembly for a file
-DEV_Config.c.s:
-	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.c.s
-.PHONY : DEV_Config.c.s
+DEV_Config.cpp.s:
+	cd /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build && $(MAKE) $(MAKESILENT) -f lib/Config/CMakeFiles/Config.dir/build.make lib/Config/CMakeFiles/Config.dir/DEV_Config.cpp.s
+.PHONY : DEV_Config.cpp.s
 
 home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj: home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.obj

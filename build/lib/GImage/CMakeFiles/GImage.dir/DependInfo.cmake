@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.c" "lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj" "gcc" "lib/GImage/CMakeFiles/GImage.dir/ImageData.c.obj.d"
+  "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/lib/GImage/ImageData.cpp" "lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj" "gcc" "lib/GImage/CMakeFiles/GImage.dir/ImageData.cpp.obj.d"
   )
 
 # Targets to which this target links.

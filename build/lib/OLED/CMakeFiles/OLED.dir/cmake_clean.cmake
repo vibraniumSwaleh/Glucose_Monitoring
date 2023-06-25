@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OLED.dir/OLED_1in3_c.c.obj"
-  "CMakeFiles/OLED.dir/OLED_1in3_c.c.obj.d"
-  "CMakeFiles/OLED.dir/OLED_2in23.c.obj"
-  "CMakeFiles/OLED.dir/OLED_2in23.c.obj.d"
+  "CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj"
+  "CMakeFiles/OLED.dir/OLED_1in3_c.cpp.obj.d"
+  "CMakeFiles/OLED.dir/OLED_2in23.cpp.obj"
+  "CMakeFiles/OLED.dir/OLED_2in23.cpp.obj.d"
   "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
   "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj.d"
   "CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"

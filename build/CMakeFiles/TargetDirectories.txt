@@ -182,3 +182,6 @@
 /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage/CMakeFiles/GImage.dir
 /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage/CMakeFiles/edit_cache.dir
 /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/GImage/CMakeFiles/rebuild_cache.dir
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Menu/CMakeFiles/Menu.dir
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Menu/CMakeFiles/edit_cache.dir
+/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/lib/Menu/CMakeFiles/rebuild_cache.dir

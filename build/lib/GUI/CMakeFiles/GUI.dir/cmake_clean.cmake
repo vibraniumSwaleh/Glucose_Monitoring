@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GUI.dir/GUI_Paint.c.obj"
-  "CMakeFiles/GUI.dir/GUI_Paint.c.obj.d"
+  "CMakeFiles/GUI.dir/GUI_Paint.cpp.obj"
+  "CMakeFiles/GUI.dir/GUI_Paint.cpp.obj.d"
   "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
   "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj.d"
   "CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"

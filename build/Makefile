@@ -272,6 +272,19 @@ GImage/fast:
 	$(MAKE) $(MAKESILENT) -f lib/GImage/CMakeFiles/GImage.dir/build.make lib/GImage/CMakeFiles/GImage.dir/build
 .PHONY : GImage/fast
 
+#=============================================================================
+# Target rules for targets named Menu
+
+# Build rule for target.
+Menu: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Menu
+.PHONY : Menu
+
+# fast build rule for target.
+Menu/fast:
+	$(MAKE) $(MAKESILENT) -f lib/Menu/CMakeFiles/Menu.dir/build.make lib/Menu/CMakeFiles/Menu.dir/build
+.PHONY : Menu/fast
+
 home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj: home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
 .PHONY : home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
 
@@ -1824,29 +1837,29 @@ home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 
-main.obj: main.c.obj
+main.obj: main.cpp.obj
 .PHONY : main.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.c.obj
-.PHONY : main.c.obj
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-main.i: main.c.i
+main.i: main.cpp.i
 .PHONY : main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.c.i
-.PHONY : main.c.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-main.s: main.c.s
+main.s: main.cpp.s
 .PHONY : main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.c.s
-.PHONY : main.c.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -1865,6 +1878,7 @@ help:
 	@echo "... Fonts"
 	@echo "... GImage"
 	@echo "... GUI"
+	@echo "... Menu"
 	@echo "... OLED"
 	@echo "... bs2_default"
 	@echo "... main"
