@@ -31,6 +31,22 @@
 #include <iostream>
 #include "DEV_Config.h"
 #include "menu.hpp"
+#include "pico/cyw43_arch.h"
+#include "pico/multicore.h"
+#include "hardware/irq.h"
+
+// core 1 main code
+void core1_entry(){
+    if (cyw43_arch_init()) {
+        printf("Wi-Fi init failed");
+    }
+    while (true) {
+        cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 1);
+        sleep_ms(250);
+        cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 0);
+        sleep_ms(250);
+    }
+}
 
 const int NUM_MENU_ITEMS = 2;
 int selectedMenuItem = 0;
@@ -48,6 +64,9 @@ void handleDownButton()
 
 int main(void)
 {
+    stdio_init_all();
+    // start core 1 
+    multicore_launch_core1(core1_entry);
 
     DEV_Delay_ms(100);
 

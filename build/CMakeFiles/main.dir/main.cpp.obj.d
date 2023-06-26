@@ -121,7 +121,7 @@ CMakeFiles/main.dir/main.cpp.obj: \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h \
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h \
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -164,4 +164,21 @@ CMakeFiles/main.dir/main.cpp.obj: \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/OLED/OLED_1in3_c.h \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GImage/ImageData.h \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI/GUI_Paint.h \
- /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI/../Fonts/fonts.h
+ /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI/../Fonts/fonts.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch.h \
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43.h \
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_config.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include/cyw43_configport.h \
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.h \
+ /usr/include/newlib/string.h /usr/include/newlib/strings.h \
+ /usr/include/newlib/sys/string.h \
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_country.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/include/pico/async_context.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch/arch_threadsafe_background.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/include/pico/multicore.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/sync.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/sem.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/critical_section.h

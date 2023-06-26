@@ -208,6 +208,10 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "/home/ghost/pico/pico-sdk/src/boards/pico_w.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "/home/ghost/pico/pico-sdk/src/boards/generic_board.cmake"
 		},
 		{

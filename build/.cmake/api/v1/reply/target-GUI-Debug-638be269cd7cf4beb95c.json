@@ -207,7 +207,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 5,
@@ -551,7 +551,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 5,
@@ -929,7 +929,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 5,

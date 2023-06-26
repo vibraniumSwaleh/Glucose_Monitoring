@@ -25,7 +25,7 @@ lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj: ../lib/GUI/GUI_Paint.cpp \
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -211,7 +211,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critica
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -246,7 +246,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_co
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -282,7 +282,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -318,7 +318,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/sem.c.o
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -381,7 +381,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_time/time.c.
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -421,7 +421,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_time/timeout
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -454,7 +454,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/datetim
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -528,7 +528,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/pheap.c
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -569,7 +569,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/queue.c
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -602,7 +602,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -648,7 +648,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_clai
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -678,7 +678,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_cloc
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -730,7 +730,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -770,7 +770,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -814,7 +814,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_irq/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -855,7 +855,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pll/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -893,7 +893,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -932,7 +932,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -963,7 +963,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_time
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1000,7 +1000,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_uart
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1041,7 +1041,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_vreg
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1096,7 +1096,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_watc
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1127,7 +1127,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_xosc
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1163,7 +1163,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1203,7 +1203,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_double/d
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1239,7 +1239,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_double/d
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1278,7 +1278,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_float/fl
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1315,7 +1315,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_float/fl
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1352,7 +1352,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/p
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1379,7 +1379,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1432,7 +1432,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_printf/p
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1490,7 +1490,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_runtime/
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1542,7 +1542,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1588,7 +1588,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1643,7 +1643,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/st
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1687,7 +1687,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_ua
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1736,7 +1736,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/s
   generated/pico_base/pico/version.h \
   /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
   generated/pico_base/pico/config_autogen.h \
-  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+  /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -1947,6 +1947,16 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/s
 
 /usr/include/newlib/c++/10.3.1/bits/exception_defines.h:
 
+/home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/error.h:
+
+/usr/include/newlib/sys/reent.h:
+
+/usr/include/newlib/alloca.h:
+
+/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h:
+
+/home/ghost/pico/pico-sdk/src/rp2_common/hardware_claim/include/hardware/claim.h:
+
 /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h:
 
 /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h:
@@ -2025,6 +2035,10 @@ generated/pico_base/pico/version.h:
 
 ../lib/GUI/GUI_Paint.h:
 
+/home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h:
+
+/usr/include/newlib/c++/10.3.1/bits/cxxabi_forced.h:
+
 /usr/include/newlib/c++/10.3.1/iosfwd:
 
 /usr/include/newlib/c++/10.3.1/bits/locale_facets.h:
@@ -2035,9 +2049,13 @@ generated/pico_base/pico/version.h:
 
 /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico.h:
 
-/usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++allocator.h:
+/usr/include/newlib/c++/10.3.1/bits/basic_ios.h:
 
-/home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h:
+/usr/include/newlib/c++/10.3.1/concepts:
+
+/home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h:
+
+/usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++allocator.h:
 
 /usr/include/newlib/_ansi.h:
 
@@ -2072,16 +2090,6 @@ generated/pico_base/pico/version.h:
 /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c:
 
 /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h:
-
-/home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/error.h:
-
-/usr/include/newlib/sys/reent.h:
-
-/usr/include/newlib/alloca.h:
-
-/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h:
-
-/home/ghost/pico/pico-sdk/src/rp2_common/hardware_claim/include/hardware/claim.h:
 
 /home/ghost/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c:
 
@@ -2178,14 +2186,6 @@ generated/pico_base/pico/version.h:
 /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h:
 
 /usr/include/newlib/c++/10.3.1/bits/ostream_insert.h:
-
-/usr/include/newlib/c++/10.3.1/bits/cxxabi_forced.h:
-
-/usr/include/newlib/c++/10.3.1/bits/basic_ios.h:
-
-/home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h:
-
-/usr/include/newlib/c++/10.3.1/concepts:
 
 /usr/include/newlib/c++/10.3.1/bits/stl_function.h:
 

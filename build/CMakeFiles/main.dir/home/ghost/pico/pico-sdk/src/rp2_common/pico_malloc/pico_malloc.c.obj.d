@@ -19,7 +19,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/pico_mal
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h \
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h \
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
@@ -27,4 +27,12 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/pico_mal
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/types.h \
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/error.h \
- /home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/include/pico/malloc.h
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/include/pico/malloc.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
+ /home/ghost/pico/pico-sdk/src/common/pico_time/include/pico/time.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h \
+ /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
+ /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h

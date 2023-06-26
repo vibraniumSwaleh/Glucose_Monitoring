@@ -17,6 +17,7 @@
 			"pico_add_uf2_output",
 			"pico_add_extra_outputs",
 			"pico_define_boot_stage2",
+			"pico_generate_pio_header",
 			"target_compile_definitions",
 			"include_directories"
 		],
@@ -26,7 +27,8 @@
 			"/home/ghost/pico/pico-sdk/tools/FindELF2UF2.cmake",
 			"/home/ghost/pico/pico-sdk/tools/CMakeLists.txt",
 			"/home/ghost/pico/pico-sdk/src/rp2_common.cmake",
-			"/home/ghost/pico/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt"
+			"/home/ghost/pico/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt",
+			"/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -89,37 +91,52 @@
 				"parent" : 9
 			},
 			{
+				"file" : 5
+			},
+			{
 				"command" : 7,
+				"file" : 5,
+				"line" : 50,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 45,
+				"parent" : 12
+			},
+			{
+				"command" : 8,
 				"file" : 3,
 				"line" : 30,
 				"parent" : 3
 			},
 			{
-				"command" : 8,
+				"command" : 9,
 				"file" : 0,
 				"line" : 17,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
+				"command" : 9,
 				"file" : 0,
 				"line" : 18,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
+				"command" : 9,
 				"file" : 0,
 				"line" : 19,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
+				"command" : 9,
 				"file" : 0,
 				"line" : 20,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
+				"command" : 9,
 				"file" : 0,
 				"line" : 21,
 				"parent" : 0
@@ -171,11 +188,23 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS=1"
 				},
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 2,
@@ -224,6 +253,10 @@
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_MEM_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_MULTICORE=1"
 				},
 				{
 					"backtrace" : 2,
@@ -291,7 +324,7 @@
 				},
 				{
 					"backtrace" : 2,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 2,
@@ -311,6 +344,10 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "PICO_NO_FLASH=0"
 				},
 				{
@@ -326,7 +363,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 11,
+					"backtrace" : 14,
 					"define" : "PICO_TARGET_NAME=\"main\""
 				},
 				{
@@ -337,23 +374,23 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 12,
+					"backtrace" : 15,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Config"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 16,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/OLED"
 				},
 				{
-					"backtrace" : 15,
+					"backtrace" : 18,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GImage"
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Menu"
 				},
 				{
@@ -555,6 +592,50 @@
 				{
 					"backtrace" : 2,
 					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/include"
 				}
 			],
 			"language" : "CXX",
@@ -591,11 +672,23 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS=1"
 				},
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 2,
@@ -644,6 +737,10 @@
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_MEM_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_MULTICORE=1"
 				},
 				{
 					"backtrace" : 2,
@@ -711,7 +808,7 @@
 				},
 				{
 					"backtrace" : 2,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 2,
@@ -731,6 +828,10 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "PICO_NO_FLASH=0"
 				},
 				{
@@ -746,7 +847,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 11,
+					"backtrace" : 14,
 					"define" : "PICO_TARGET_NAME=\"main\""
 				},
 				{
@@ -757,23 +858,23 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 12,
+					"backtrace" : 15,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Config"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 16,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/OLED"
 				},
 				{
-					"backtrace" : 15,
+					"backtrace" : 18,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GImage"
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Menu"
 				},
 				{
@@ -975,6 +1076,50 @@
 				{
 					"backtrace" : 2,
 					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/include"
 				}
 			],
 			"language" : "C",
@@ -1039,7 +1184,25 @@
 				69,
 				70,
 				71,
-				72
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90
 			]
 		},
 		{
@@ -1069,11 +1232,23 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS=1"
 				},
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_BIT_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 2,
@@ -1122,6 +1297,10 @@
 				{
 					"backtrace" : 2,
 					"define" : "LIB_PICO_MEM_OPS_PICO=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LIB_PICO_MULTICORE=1"
 				},
 				{
 					"backtrace" : 2,
@@ -1189,7 +1368,7 @@
 				},
 				{
 					"backtrace" : 2,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 2,
@@ -1209,6 +1388,10 @@
 				},
 				{
 					"backtrace" : 2,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
+					"backtrace" : 2,
 					"define" : "PICO_NO_FLASH=0"
 				},
 				{
@@ -1224,7 +1407,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 11,
+					"backtrace" : 14,
 					"define" : "PICO_TARGET_NAME=\"main\""
 				},
 				{
@@ -1235,23 +1418,23 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 12,
+					"backtrace" : 15,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Config"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 16,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GUI"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/OLED"
 				},
 				{
-					"backtrace" : 15,
+					"backtrace" : 18,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/GImage"
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/./lib/Menu"
 				},
 				{
@@ -1453,6 +1636,50 @@
 				{
 					"backtrace" : 2,
 					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/include"
 				}
 			],
 			"language" : "ASM",
@@ -1481,6 +1708,10 @@
 		{
 			"backtrace" : 10,
 			"id" : "bs2_default_padded_checksummed_asm::@bc554eaed616d198a22d"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "cyw43_driver_picow_cyw43_bus_pio_spi_pio_h::@c2fb4f534018e64680d5"
 		},
 		{
 			"backtrace" : 2,
@@ -2456,7 +2687,25 @@
 				69,
 				70,
 				71,
-				72
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90
 			]
 		},
 		{
@@ -2915,6 +3164,114 @@
 			"backtrace" : 2,
 			"compileGroupIndex" : 1,
 			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c",
 			"sourceGroupIndex" : 0
 		}
 	],

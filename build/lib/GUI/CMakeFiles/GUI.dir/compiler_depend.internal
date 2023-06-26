@@ -26,7 +26,7 @@ lib/GUI/CMakeFiles/GUI.dir/GUI_Paint.cpp.obj
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -213,7 +213,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/critica
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -249,7 +249,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/lock_co
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -286,7 +286,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/mutex.c
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -323,7 +323,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_sync/sem.c.o
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -387,7 +387,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_time/time.c.
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -428,7 +428,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_time/timeout
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -462,7 +462,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/datetim
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -537,7 +537,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/pheap.c
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -579,7 +579,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/common/pico_util/queue.c
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -613,7 +613,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -660,7 +660,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_clai
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -691,7 +691,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_cloc
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -744,7 +744,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_gpio
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -785,7 +785,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -830,7 +830,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_irq/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -872,7 +872,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pll/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -911,7 +911,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -951,7 +951,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -983,7 +983,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_time
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1021,7 +1021,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_uart
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1063,7 +1063,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_vreg
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1119,7 +1119,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_watc
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1151,7 +1151,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_xosc
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1188,7 +1188,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1229,7 +1229,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_double/d
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1266,7 +1266,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_double/d
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1306,7 +1306,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_float/fl
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1344,7 +1344,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_float/fl
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1382,7 +1382,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc/p
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1410,7 +1410,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_platform
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1464,7 +1464,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_printf/p
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1523,7 +1523,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_runtime/
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1576,7 +1576,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1623,7 +1623,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1679,7 +1679,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/st
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1724,7 +1724,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_ua
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h
@@ -1774,7 +1774,7 @@ lib/GUI/CMakeFiles/GUI.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdlib/s
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h

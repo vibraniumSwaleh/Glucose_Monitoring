@@ -96,7 +96,7 @@
 			[
 				{
 					"backtrace" : 8,
-					"define" : "PICO_BOARD=\"pico\""
+					"define" : "PICO_BOARD=\"pico_w\""
 				},
 				{
 					"backtrace" : 8,

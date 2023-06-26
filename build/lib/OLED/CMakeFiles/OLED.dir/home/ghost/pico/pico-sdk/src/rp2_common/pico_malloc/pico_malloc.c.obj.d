@@ -19,7 +19,7 @@ lib/OLED/CMakeFiles/OLED.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_malloc
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/version.h \
  /home/ghost/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
  /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/generated/pico_base/pico/config_autogen.h \
- /home/ghost/pico/pico-sdk/src/boards/include/boards/pico.h \
+ /home/ghost/pico/pico-sdk/src/boards/include/boards/pico_w.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
