@@ -15,7 +15,7 @@ private:
     std::string welcome_0_3;
 public:
     Welcome_Msg_0(const std::string &msg0_1, const std::string &msg0_2, const std::string &msg0_3);
-    void Display_Message();
+    void Display_Message(uint8_t *BImage_Msg_0);
     ~Welcome_Msg_0();
 };
 
@@ -29,7 +29,7 @@ private:
     std::string welcome_1_5;
 public:
     Welcome_Msg_1(const std::string &msg1_1, const std::string &msg1_2, const std::string &msg1_3, const std::string &msg1_4, const std::string &msg1_5);
-    void Display_Message();
+    void Display_Message(uint8_t *BImage_Msg_1);
     ~Welcome_Msg_1();
 };
 
@@ -37,10 +37,9 @@ class Welcome_Msg_2
 {
 private:
     std::string welcome_2_1;
-    uint8_t *BImage_2_1;
 public:
-    Welcome_Msg_2(const std::string &msg2_1, uint8_t *BI_2_1);
-    void Display_Message();
+    Welcome_Msg_2(const std::string &msg2_1);
+    void Display_Message(uint8_t *BImage_Msg_2);
     ~Welcome_Msg_2();
 };
 
@@ -50,12 +49,28 @@ private:
     std::string menu_0_1;
     std::string menu_0_2;
     std::string menu_0_3;
+    uint8_t *BImage_Menu_0;
     const unsigned char	*Graphicx_0[2];
     
 public:
     Menu_0(const std::string &menu0_1, const std::string &menu0_2, const std::string &menu0_3, const unsigned char *Graphicx_Array_0[2]);
-    void Display_Menu();
+    void Display_Menu(uint8_t *BImage_Menu_0);
     ~Menu_0();
 };
+
+class BL_setup
+{
+private:
+    bool No = true;
+    bool Yes = true;
+    std::string bl_setup_title;
+    std::string on;
+    std::string off;
+public:
+    BL_setup(const std::string &bl_setup_title, const std::string &on, const std::string &off);
+    void Display_Menu(uint8_t *BImage_bl_setup);
+    ~BL_setup();
+};
+
 
 #endif

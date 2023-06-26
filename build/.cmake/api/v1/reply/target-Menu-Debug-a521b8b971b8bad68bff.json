@@ -1226,6 +1226,10 @@
 		},
 		{
 			"backtrace" : 5,
+			"id" : "Fonts::@7d5e21aba2ed26ee8949"
+		},
+		{
+			"backtrace" : 5,
 			"id" : "GUI::@5f5b94e2d2fa854542ba"
 		},
 		{

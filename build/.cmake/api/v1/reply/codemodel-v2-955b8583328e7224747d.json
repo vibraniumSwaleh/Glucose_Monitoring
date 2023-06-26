@@ -1250,7 +1250,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ELF2UF2Build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ELF2UF2Build-Debug-9ed278d8e0843aa4dc96.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-40982dbf4256fb143676.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
@@ -1278,7 +1278,7 @@
 				{
 					"directoryIndex" : 86,
 					"id" : "Menu::@de1d2030322c9a9c9b6f",
-					"jsonFile" : "target-Menu-Debug-8c188f2795d7071db72e.json",
+					"jsonFile" : "target-Menu-Debug-a521b8b971b8bad68bff.json",
 					"name" : "Menu",
 					"projectIndex" : 0
 				},
@@ -1327,7 +1327,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "main::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-main-Debug-e25a39e5aaa856ac6e40.json",
+					"jsonFile" : "target-main-Debug-3053567e82dcaf010b77.json",
 					"name" : "main",
 					"projectIndex" : 0
 				}

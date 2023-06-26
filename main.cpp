@@ -30,10 +30,10 @@
 //#include <stdlib.h>
 #include <iostream>
 #include "DEV_Config.h"
-#include "menu.hpp"
 #include "pico/cyw43_arch.h"
 #include "pico/multicore.h"
 #include "hardware/irq.h"
+#include "menu.hpp"
 
 // core 1 main code
 void core1_entry(){
@@ -98,26 +98,33 @@ int main(void)
     Paint_Clear(BLACK);
 
     Welcome_Msg_0 m0 = Welcome_Msg_0("Glucose", "Monitoring", "System");
-    m0.Display_Message();
-
-    OLED_1in3_C_Display(BlackImage);
+    m0.Display_Message(BlackImage);
     DEV_Delay_ms(1000);
 
     Paint_Clear(BLACK);
 
     Welcome_Msg_1 m1 = Welcome_Msg_1("By:", "Swaleh Hussein", "MCTY | MSc. | IoT", "DCU Student No:", "21270106");
-    m1.Display_Message();
-
-    OLED_1in3_C_Display(BlackImage);
+    m1.Display_Message(BlackImage);
     DEV_Delay_ms(1000);
 
     Paint_Clear(BLACK);
 
-    Welcome_Msg_2 m2 = Welcome_Msg_2("Device Init", BlackImage);
-    m2.Display_Message();
+    Welcome_Msg_2 m2 = Welcome_Msg_2("Device Init");
+    m2.Display_Message(BlackImage);
 
     Paint_Clear(BLACK);
 
+    const unsigned char *graphicArray[2] = { Graphicx[0], Graphicx[1]};
+    Menu_0 menu0 = Menu_0("Main menu:", "Pair Bluetooth", "Dashboard", graphicArray);
+    menu0.Display_Menu(BlackImage);
+    
+    Paint_Clear(BLACK);
+
+    BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
+    bl_setup.Display_Menu(BlackImage);
+
+    //Paint_Clear(BLACK);
+/*
     int key0 = 15;
     int key1 = 17;
     int key = 0;
@@ -128,10 +135,12 @@ int main(void)
 
     const unsigned char *graphicArray[2] = { Graphicx[0], Graphicx[1]};
     Menu_0 menu0 = Menu_0("Main menu:", "Pair Bluetooth", "Dashboard", graphicArray);
-    menu0.Display_Menu();
+    menu0.Display_Menu(BlackImage);
+    
+    Paint_Clear(BLACK);
 
-    OLED_1in3_C_Display(BlackImage);
-
+    //OLED_1in3_C_Display(BlackImage);
+    
     while (1)
     {
         if (DEV_Digital_Read(key0) == 0)
@@ -182,6 +191,6 @@ int main(void)
             prevMenuItem = selectedMenuItem;
         }
     }
-
+*/
     return 0;
 }

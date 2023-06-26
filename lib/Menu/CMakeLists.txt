@@ -7,4 +7,4 @@ include_directories(../GImage)
 
 # 生成链接库
 add_library(Menu ${DIR_Menu_SRCS})
-target_link_libraries(Menu PUBLIC Config GUI OLED GImage)
+target_link_libraries(Menu PUBLIC Config Fonts GUI OLED GImage)

@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.12)
 include(pico_sdk_import.cmake)
 project(main)
 
+set(PICO_BOARD pico_w)
+
 pico_sdk_init()
 
 #添加编译子目录

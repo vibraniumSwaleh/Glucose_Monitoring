@@ -1936,6 +1936,7 @@ lib/GImage/CMakeFiles/GImage.dir/clean:
 lib/Menu/CMakeFiles/Menu.dir/all: pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/all
 lib/Menu/CMakeFiles/Menu.dir/all: lib/Config/CMakeFiles/Config.dir/all
 lib/Menu/CMakeFiles/Menu.dir/all: lib/OLED/CMakeFiles/OLED.dir/all
+lib/Menu/CMakeFiles/Menu.dir/all: lib/Fonts/CMakeFiles/Fonts.dir/all
 lib/Menu/CMakeFiles/Menu.dir/all: lib/GUI/CMakeFiles/GUI.dir/all
 lib/Menu/CMakeFiles/Menu.dir/all: lib/GImage/CMakeFiles/GImage.dir/all
 	$(MAKE) $(MAKESILENT) -f lib/Menu/CMakeFiles/Menu.dir/build.make lib/Menu/CMakeFiles/Menu.dir/depend
@@ -1945,7 +1946,7 @@ lib/Menu/CMakeFiles/Menu.dir/all: lib/GImage/CMakeFiles/GImage.dir/all
 
 # Build rule for subdir invocation for target.
 lib/Menu/CMakeFiles/Menu.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles 64
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles 67
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/Menu/CMakeFiles/Menu.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles 0
 .PHONY : lib/Menu/CMakeFiles/Menu.dir/rule

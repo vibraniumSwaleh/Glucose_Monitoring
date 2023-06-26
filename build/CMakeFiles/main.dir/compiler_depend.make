@@ -4171,11 +4171,6 @@ CMakeFiles/main.dir/main.cpp.obj: ../main.cpp \
   /home/ghost/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h \
   /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h \
-  ../lib/Menu/menu.hpp \
-  ../lib/OLED/OLED_1in3_c.h \
-  ../lib/GImage/ImageData.h \
-  ../lib/GUI/GUI_Paint.h \
-  ../lib/Fonts/fonts.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch.h \
   /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43.h \
   /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_config.h \
@@ -4193,7 +4188,12 @@ CMakeFiles/main.dir/main.cpp.obj: ../main.cpp \
   /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
   /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
-  /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/critical_section.h
+  /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/critical_section.h \
+  ../lib/Menu/menu.hpp \
+  ../lib/OLED/OLED_1in3_c.h \
+  ../lib/GImage/ImageData.h \
+  ../lib/GUI/GUI_Paint.h \
+  ../lib/Fonts/fonts.h
 
 
 ../lib/GUI/GUI_Paint.h:
