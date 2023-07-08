@@ -115,8 +115,8 @@ void DEV_GPIO_Mode(UWORD Pin, UWORD Mode)
 void DEV_KEY_Config(UWORD Pin)
 {
     gpio_init(Pin);
-	gpio_pull_up(Pin);
     gpio_set_dir(Pin, GPIO_IN);
+	gpio_pull_up(Pin);
 }
 
 /**

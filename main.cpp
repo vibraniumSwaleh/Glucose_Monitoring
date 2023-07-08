@@ -48,19 +48,6 @@ void core1_entry(){
     }
 }
 
-const int NUM_MENU_ITEMS = 2;
-int selectedMenuItem = 0;
-int prevMenuItem = -1;
-
-void handleUpButton()
-{
-    selectedMenuItem = (selectedMenuItem + NUM_MENU_ITEMS - 1) % NUM_MENU_ITEMS;
-}
-
-void handleDownButton()
-{
-    selectedMenuItem = (selectedMenuItem + 1) % NUM_MENU_ITEMS;
-}
 
 int main(void)
 {
@@ -114,22 +101,20 @@ int main(void)
 
     Paint_Clear(BLACK);
 
-    const unsigned char *graphicArray[2] = { Graphicx[0], Graphicx[1]};
-    Menu_0 menu0 = Menu_0("Main menu:", "Pair Bluetooth", "Dashboard", graphicArray);
-    menu0.Display_Menu(BlackImage);
-    
-    Paint_Clear(BLACK);
-
-    BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
-    bl_setup.Display_Menu(BlackImage);
+    // BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
+    // bl_setup.Display_Menu(BlackImage);
 
     //Paint_Clear(BLACK);
-/*
+
+    int key_select = 16;
+    int key_back = 22;
     int key0 = 15;
     int key1 = 17;
     int key = 0;
     DEV_GPIO_Mode(key0, 0);
     DEV_GPIO_Mode(key1, 0);
+    DEV_KEY_Config(key_select);
+    DEV_KEY_Config(key_back);
 
     int Items[2][2] = {{14, 37}, {40, 62}};
 
@@ -137,12 +122,41 @@ int main(void)
     Menu_0 menu0 = Menu_0("Main menu:", "Pair Bluetooth", "Dashboard", graphicArray);
     menu0.Display_Menu(BlackImage);
     
-    Paint_Clear(BLACK);
+    //Paint_Clear(BLACK);
 
-    //OLED_1in3_C_Display(BlackImage);
-    
+    bool inBLSetupMenu = false;
+
     while (1)
     {
+        if (inBLSetupMenu)
+        {
+            // Check for back button press
+            if (gpio_get(key_back) == 0)
+            {
+                inBLSetupMenu = false; // Exit the BL_setup menu
+                Paint_Clear(BLACK);
+                menu0.Display_Menu(BlackImage); // Redisplay the "Pair Bluetooth" menu
+                while (gpio_get(key_back) == 0)
+                {
+                    tight_loop_contents();
+                }
+            }
+        }
+        else{
+        if (gpio_get(key_select) == 0 && selectedMenuItem == 0)
+        {
+            // Create and display the BL_setup menu
+            Paint_Clear(BLACK);
+            BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
+            bl_setup.Display_Menu(BlackImage);
+            inBLSetupMenu = true;
+            
+            while (gpio_get(key_select) == 0)
+            {
+                tight_loop_contents();
+            }
+        }
+
         if (DEV_Digital_Read(key0) == 0)
         {
             handleUpButton();
@@ -159,38 +173,23 @@ int main(void)
                 tight_loop_contents();
             }
         }
+            }
 
         if (selectedMenuItem != prevMenuItem)
         {
             // Update the display only when the selected menu item changes
             Paint_Clear(BLACK);
 
-            Paint_DrawString_EN(1, 1, "Main menu:", &Font12, WHITE, BLACK);
-            Paint_DrawLine(0, 12, 128, 12, WHITE, DOT_PIXEL_1X1, LINE_STYLE_SOLID);
-
-            // Draw the "Pair Bluetooth" menu item
-            if (selectedMenuItem == 0)
-            {
-                // Draw a rectangle around the selected menu item
-                Paint_DrawRectangle(1, 14, 127, 37, WHITE, DOT_PIXEL_1X1, DRAW_FILL_EMPTY);
-            }
-            Paint_DrawString_EN(26, 21, "Pair Bluetooth", &Font12, WHITE, BLACK);
-            Paint_BmpWindows(5, 16, Graphicx[0], 21, 21);
-
-            // Draw the "Dashboard" menu item
-            if (selectedMenuItem == 1)
-            {
-                // Draw a rectangle around the selected menu item
-                Paint_DrawRectangle(1, 40, 127, 62, WHITE, DOT_PIXEL_1X1, DRAW_FILL_EMPTY);
-            }
-            Paint_DrawString_EN(26, 46, "Dashboard", &Font12, WHITE, BLACK);
-            Paint_BmpWindows(2, 42, Graphicx[1], 21, 20);
+            Main_Menu_Display();
+            Pair_Bluetooth_Display();
+            Dashboard_Display();
 
             OLED_1in3_C_Display(BlackImage);
 
             prevMenuItem = selectedMenuItem;
         }
     }
-*/
+
     return 0;
 }
+

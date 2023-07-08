@@ -7,6 +7,13 @@
 #include "ImageData.h"
 #include "GUI_Paint.h"
 
+extern const int NUM_MENU_ITEMS;
+extern int selectedMenuItem;
+extern int prevMenuItem;
+
+void handleUpButton();
+void handleDownButton();
+
 class Welcome_Msg_0
 {
 private:
@@ -72,5 +79,10 @@ public:
     ~BL_setup();
 };
 
+void Main_Menu_Title();
+void Pair_Bluetooth_Display();
+void Dashboard_Display();
+
+void Main_Menu_Display();
 
 #endif
