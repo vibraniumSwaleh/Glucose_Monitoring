@@ -4189,6 +4189,9 @@ CMakeFiles/main.dir/main.cpp.obj: ../main.cpp \
   /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
   /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
   /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/critical_section.h \
+  /home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/include/hardware/adc.h \
+  /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/adc.h \
+  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/adc.h \
   ../lib/Menu/menu.hpp \
   ../lib/OLED/OLED_1in3_c.h \
   ../lib/GImage/ImageData.h \

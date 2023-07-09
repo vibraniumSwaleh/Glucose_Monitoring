@@ -45,6 +45,9 @@ extern const unsigned char gImage_1inch8_1[];
 extern const unsigned char gImage_1inch3_1[];
 extern const unsigned char gImage_2inch_1[];
 
+extern const unsigned char BL_Icon_On[];
+extern const unsigned char BL_Icon_Off[];
+extern const unsigned char Drop[];
 extern const unsigned char BL_Icon[];
 extern const unsigned char Dashboard_Icon[];
 extern const unsigned char	*Graphicx[];

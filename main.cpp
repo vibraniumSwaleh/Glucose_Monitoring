@@ -26,21 +26,27 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 ******************************************************************************/
-//#include "Debug.h"
-//#include <stdlib.h>
+// #include "Debug.h"
+// #include <stdlib.h>
 #include <iostream>
 #include "DEV_Config.h"
 #include "pico/cyw43_arch.h"
 #include "pico/multicore.h"
 #include "hardware/irq.h"
+#include "hardware/adc.h"
 #include "menu.hpp"
 
+#define ADC_CHANNEL_TEMPSENSOR 4
+
 // core 1 main code
-void core1_entry(){
-    if (cyw43_arch_init()) {
+void core1_entry()
+{
+    if (cyw43_arch_init())
+    {
         printf("Wi-Fi init failed");
     }
-    while (true) {
+    while (true)
+    {
         cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 1);
         sleep_ms(250);
         cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, 0);
@@ -48,11 +54,31 @@ void core1_entry(){
     }
 }
 
+double poll_temp(void) {
+    adc_select_input(ADC_CHANNEL_TEMPSENSOR);
+    uint32_t raw32 = adc_read();
+    uint16_t current_temp;
+    const uint32_t bits = 12;
+
+    // Scale raw reading to 16 bit value using a Taylor expansion (for 8 <= bits <= 16)
+    uint16_t raw16 = raw32 << (16 - bits) | raw32 >> (2 * bits - 16);
+
+    // ref https://github.com/raspberrypi/pico-micropython-examples/blob/master/adc/temperature.py
+    const float conversion_factor = 3.3 / (65535);
+    float reading = raw16 * conversion_factor;
+    
+    // The temperature sensor measures the Vbe voltage of a biased bipolar diode, connected to the fifth ADC channel
+    // Typically, Vbe = 0.706V at 27 degrees C, with a slope of -1.721mV (0.001721) per degree. 
+    double deg_c = 27 - (reading - 0.706) / 0.001721;
+    current_temp = deg_c * 100;
+    printf("Write temp %.2f degc\n", deg_c);
+    return deg_c;
+ }
 
 int main(void)
 {
     stdio_init_all();
-    // start core 1 
+    // start core 1
     multicore_launch_core1(core1_entry);
 
     DEV_Delay_ms(100);
@@ -101,95 +127,34 @@ int main(void)
 
     Paint_Clear(BLACK);
 
-    // BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
-    // bl_setup.Display_Menu(BlackImage);
+    // int key0 = 15;
+    // int key1 = 17;
 
-    //Paint_Clear(BLACK);
+    // Initialise adc for the temp sensor
+    adc_init();
+    adc_select_input(ADC_CHANNEL_TEMPSENSOR);
+    adc_set_temp_sensor_enabled(true);
 
-    int key_select = 16;
-    int key_back = 22;
-    int key0 = 15;
-    int key1 = 17;
-    int key = 0;
-    DEV_GPIO_Mode(key0, 0);
-    DEV_GPIO_Mode(key1, 0);
-    DEV_KEY_Config(key_select);
-    DEV_KEY_Config(key_back);
+    const unsigned char *graphicArray[5] = {Graphicx[0], Graphicx[1], Graphicx[2], Graphicx[3], Graphicx[4]};
 
-    int Items[2][2] = {{14, 37}, {40, 62}};
-
-    const unsigned char *graphicArray[2] = { Graphicx[0], Graphicx[1]};
-    Menu_0 menu0 = Menu_0("Main menu:", "Pair Bluetooth", "Dashboard", graphicArray);
-    menu0.Display_Menu(BlackImage);
-    
-    //Paint_Clear(BLACK);
-
-    bool inBLSetupMenu = false;
-
-    while (1)
+    while (true)
     {
-        if (inBLSetupMenu)
-        {
-            // Check for back button press
-            if (gpio_get(key_back) == 0)
-            {
-                inBLSetupMenu = false; // Exit the BL_setup menu
-                Paint_Clear(BLACK);
-                menu0.Display_Menu(BlackImage); // Redisplay the "Pair Bluetooth" menu
-                while (gpio_get(key_back) == 0)
-                {
-                    tight_loop_contents();
-                }
-            }
-        }
-        else{
-        if (gpio_get(key_select) == 0 && selectedMenuItem == 0)
-        {
-            // Create and display the BL_setup menu
-            Paint_Clear(BLACK);
-            BL_setup bl_setup = BL_setup("Pair Bluetooth ?", "OFF", "ON");
-            bl_setup.Display_Menu(BlackImage);
-            inBLSetupMenu = true;
-            
-            while (gpio_get(key_select) == 0)
-            {
-                tight_loop_contents();
-            }
-        }
+        double blood_sugar_reading = poll_temp();
 
-        if (DEV_Digital_Read(key0) == 0)
-        {
-            handleUpButton();
-            while (gpio_get(key0) == 0)
-            {
-                tight_loop_contents();
-            }
-        }
-        else if (DEV_Digital_Read(key1) == 0)
-        {
-            handleDownButton();
-            while (gpio_get(key1) == 0)
-            {
-                tight_loop_contents();
-            }
-        }
-            }
+        Paint_DrawNum(32, 21, blood_sugar_reading, &Font24, 2, BLACK, WHITE);
+        Paint_DrawString_EN(86, 42, "mmol/L", &Font8, WHITE, BLACK);
+        Paint_BmpWindows(108, 5, graphicArray[4], 15, 15);
+        OLED_1in3_C_Display(BlackImage);
+        DEV_Delay_ms(5000);
 
-        if (selectedMenuItem != prevMenuItem)
-        {
-            // Update the display only when the selected menu item changes
-            Paint_Clear(BLACK);
-
-            Main_Menu_Display();
-            Pair_Bluetooth_Display();
-            Dashboard_Display();
-
-            OLED_1in3_C_Display(BlackImage);
-
-            prevMenuItem = selectedMenuItem;
-        }
+        Paint_Clear(BLACK);
+        OLED_1in3_C_Display(BlackImage);
     }
-
+    
     return 0;
 }
+
+
+
+
 

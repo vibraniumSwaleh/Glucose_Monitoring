@@ -41,6 +41,7 @@ target_link_libraries(main
     Config 
     pico_stdlib 
     hardware_spi 
+    hardware_adc
     pico_cyw43_arch_none
     pico_multicore
     )
