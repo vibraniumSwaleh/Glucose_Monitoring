@@ -62,4 +62,4 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware/wifi_nvram_43439.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_spi.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_debug_pins.h \
- /home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware/w43439A0_7_95_49_00_combined.h
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/firmware/wb43439A0_7_95_49_00_combined.h

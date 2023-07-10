@@ -688,24 +688,10 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
@@ -719,7 +705,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
@@ -733,7 +719,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
@@ -747,7 +733,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
@@ -761,7 +747,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_unique_id/uniqu
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
@@ -775,7 +761,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_flash/flash
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
@@ -789,7 +775,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberryp
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
@@ -803,7 +789,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/portable/raspberryp
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
@@ -817,7 +803,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s: cm
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
@@ -831,7 +817,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/device/usbd_control
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
@@ -845,7 +831,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/audio/audio_d
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
@@ -859,7 +845,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_devic
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
@@ -873,7 +859,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_devic
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
@@ -887,7 +873,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_de
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
@@ -901,7 +887,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/hid/hid_devic
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
@@ -915,7 +901,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/midi/midi_dev
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
@@ -929,7 +915,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/msc/msc_devic
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
@@ -943,7 +929,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
@@ -957,7 +943,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/net/ncm_devic
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
@@ -971,7 +957,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
@@ -985,7 +971,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
@@ -999,7 +985,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/class/video/video_d
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
@@ -1013,7 +999,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/tusb.c.s: cmake_for
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -c /home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
@@ -1027,7 +1013,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
@@ -1041,7 +1027,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.i: cmake_force
@@ -1055,7 +1041,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i: cmake_force
@@ -1069,7 +1055,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i: cmake_force
@@ -1080,10 +1066,836 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
 
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/hci.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/hci.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/hci.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/hci.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj: /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj -c /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
+
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i: cmake_force
@@ -1097,7 +1909,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw4
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i: cmake_force
@@ -1111,7 +1923,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw4
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i: cmake_force
@@ -1125,7 +1937,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw4
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i: cmake_force
@@ -1139,7 +1951,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw4
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i: cmake_force
@@ -1153,7 +1965,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cy
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj -c /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i: cmake_force
@@ -1167,7 +1979,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.s: 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj -c /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i: cmake_force
@@ -1181,7 +1993,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj -c /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i: cmake_force
@@ -1195,7 +2007,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj -c /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i: cmake_force
@@ -1209,7 +2021,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i: cmake_force
@@ -1223,7 +2035,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cy
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i: cmake_force
@@ -1237,7 +2049,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cy
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
@@ -1251,7 +2063,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
@@ -1265,7 +2077,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.s
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
@@ -1279,7 +2091,7 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/e
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i: cmake_force
@@ -1290,10 +2102,38 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cy
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.s
 
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i
+
+CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s
+
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i: cmake_force
@@ -1304,24 +2144,10 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/a
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.s
 
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
-
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c > CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i
-
-CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.s
-
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: /home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj -MF CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj.d -o CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj -c /home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 
 CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.i: cmake_force
@@ -1379,7 +2205,6 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" \
-"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" \
@@ -1407,6 +2232,65 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj" \
@@ -1422,8 +2306,9 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj" \
+"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj" \
-"CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj" \
 "CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj"
 
 # External object files for target main
@@ -1474,7 +2359,6 @@ main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stand
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
@@ -1502,6 +2386,65 @@ main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/r
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj
@@ -1517,8 +2460,9 @@ main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_p
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj
+main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj
-main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj
 main.elf: CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj
 main.elf: CMakeFiles/main.dir/build.make
 main.elf: lib/OLED/libOLED.a
@@ -1531,7 +2475,7 @@ main.elf: lib/OLED/libOLED.a
 main.elf: lib/Config/libConfig.a
 main.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 main.elf: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Linking CXX executable main.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Linking CXX executable main.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 	/usr/bin/arm-none-eabi-objcopy -Oihex /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/main.elf main.hex
 	/usr/bin/arm-none-eabi-objcopy -Obinary /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/build/main.elf main.bin

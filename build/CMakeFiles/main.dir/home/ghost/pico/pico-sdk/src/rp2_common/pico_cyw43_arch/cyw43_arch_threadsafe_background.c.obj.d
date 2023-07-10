@@ -64,4 +64,5 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw4
  /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/sem.h \
  /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/hardware_sync/include/hardware/sync.h \
- /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h
+ /home/ghost/pico/pico-sdk/src/common/pico_sync/include/pico/mutex.h \
+ /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include/pico/btstack_cyw43.h

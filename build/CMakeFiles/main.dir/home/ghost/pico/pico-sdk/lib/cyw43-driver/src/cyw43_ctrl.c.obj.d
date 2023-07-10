@@ -55,4 +55,5 @@ CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o
  /usr/include/newlib/sys/_pthreadtypes.h /usr/include/newlib/sys/sched.h \
  /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.h \
- /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.h
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.h \
+ /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_btbus.h

@@ -27,7 +27,14 @@ add_executable(main main.cpp)
 
 # enable usb output, disable uart output
 pico_enable_stdio_usb(main 1)
-pico_enable_stdio_uart(main 1)
+pico_enable_stdio_uart(main 0)
+
+target_include_directories(main PRIVATE
+    ${CMAKE_CURRENT_LIST_DIR} # For btstack config
+    )
+target_compile_definitions(main PRIVATE
+    RUNNING_AS_CLIENT=1
+)
 
 # create map/bin/hex/uf2 file etc.
 pico_add_extra_outputs(main)
@@ -39,6 +46,8 @@ target_link_libraries(main
     Fonts 
     GImage 
     Config 
+    pico_btstack_ble
+    pico_btstack_cyw43
     pico_stdlib 
     hardware_spi 
     hardware_adc

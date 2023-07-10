@@ -285,6 +285,1278 @@ Menu/fast:
 	$(MAKE) $(MAKESILENT) -f lib/Menu/CMakeFiles/Menu.dir/build.make lib/Menu/CMakeFiles/Menu.dir/build
 .PHONY : Menu/fast
 
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.obj: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.i: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.s: home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.obj: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.i: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.s: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.obj: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.i: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.s: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.obj: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.i: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.s: home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.i: home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.s: home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.obj: home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.i: home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.s: home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.obj: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.i: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.s: home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.obj: home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.i: home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.s: home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.obj: home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.i: home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.s: home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.obj: home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.i: home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.s: home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.obj: home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.i: home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.s: home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.obj: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.i: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.s: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.obj: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.i: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.s: home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.c.s
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.obj: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.obj
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.i: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.i
+
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.s: home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s
+.PHONY : home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.c.s
+
 home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj: home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj
 .PHONY : home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj
 
@@ -1557,6 +2829,78 @@ home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s
 
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.c.s
+
 home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj
 
@@ -1652,6 +2996,78 @@ home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_ba
 home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.c.s
 
 home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.obj
@@ -1844,6 +3260,30 @@ home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/r
 home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.obj
+
+# target to build an object file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.obj
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.i
+
+# target to preprocess a source file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.i
+
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.s
+
+# target to generate assembly for a file
+home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
+.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.c.s
 
 home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
@@ -2125,30 +3565,6 @@ home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
-
-# target to build an object file
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
-
-# target to preprocess a source file
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
-
-# target to generate assembly for a file
-home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-
 home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 .PHONY : home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
 
@@ -2314,6 +3730,165 @@ help:
 	@echo "... OLED"
 	@echo "... bs2_default"
 	@echo "... main"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/md5/md5.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/micro-ecc/uECC.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/rijndael/rijndael.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/segger-rtt/SEGGER_RTT_printf.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/3rd-party/yxml/yxml.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/btstack_tlv_flash_bank.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_embedded_stdout.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/platform/embedded/hci_dump_segger_rtt_stdout.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/nordic_spp_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ublox_spp_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_memory.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db_tlv.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_base64_decoder.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_resample.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop_base.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_slip.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_tlv_none.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/hci_event.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_provisioning_service_server.s"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.obj"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.i"
+	@echo "... home/ghost/pico/pico-sdk/lib/btstack/src/mesh/gatt-service/mesh_proxy_service_server.s"
 	@echo "... home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.obj"
 	@echo "... home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.i"
 	@echo "... home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.s"
@@ -2473,6 +4048,15 @@ help:
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_flash_bank.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_run_loop_async_context.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_btstack/btstack_stdin_pico.s"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.s"
@@ -2485,6 +4069,15 @@ help:
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_chipset_cyw43.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_cyw43.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/btstack_hci_transport_cyw43.s"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.s"
@@ -2509,6 +4102,9 @@ help:
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.obj"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.i"
+	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_flash/flash.s"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.i"
@@ -2544,9 +4140,6 @@ help:
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s"
-	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj"
-	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i"
-	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i"
 	@echo "... home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s"

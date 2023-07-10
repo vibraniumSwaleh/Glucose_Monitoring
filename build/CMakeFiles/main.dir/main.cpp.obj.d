@@ -149,7 +149,6 @@ CMakeFiles/main.dir/main.cpp.obj: \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/hardware_spi/include/hardware/spi.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/spi.h \
@@ -160,13 +159,87 @@ CMakeFiles/main.dir/main.cpp.obj: \
  /home/ghost/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h \
  /home/ghost/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack.h \
+ /home/ghost/Pico_OLED_Lib/Pico_OLED_code/Pico-code/c/btstack_config.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ad_parser.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_bool.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth_psm.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth_company_id.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth_data_types.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth_gatt.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth_sdp.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_audio.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_control.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.h \
+ /usr/include/newlib/string.h /usr/include/newlib/strings.h \
+ /usr/include/newlib/sys/string.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_defines.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_debug.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/hci_dump.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_event.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/hci.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_chipset.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/hci_cmd.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/gap.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/hci_transport.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_run_loop.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/bluetooth.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_linked_list.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_defines.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_bool.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid_parser.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/hci.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/l2cap_signaling.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_hid.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/scan_parameters_service_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/sm.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_util.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_memory_pool.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_network.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_ring_buffer.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_stdin.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db_util.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_crypto.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_dispatch.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/att_db.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/ancs_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/battery_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/bond_management_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_power_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/cycling_speed_and_cadence_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/device_information_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/heart_rate_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/hids_device.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/scan_parameters_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/gatt-service/tx_power_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/ble/le_device_db.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/le_audio.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/le_audio_util.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/le_audio.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/btstack_lc3.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/gatt-service/broadcast_audio_scan_service_client.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/le_audio.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/gatt-service/broadcast_audio_scan_service_util.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/gatt-service/broadcast_audio_scan_service_server.h \
+ /home/ghost/pico/pico-sdk/lib/btstack/src/le-audio/gatt-service/broadcast_audio_scan_service_util.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_config.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/include/cyw43_configport.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.h \
- /usr/include/newlib/string.h /usr/include/newlib/strings.h \
- /usr/include/newlib/sys/string.h \
  /home/ghost/pico/pico-sdk/lib/cyw43-driver/src/cyw43_country.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_async_context/include/pico/async_context.h \
  /home/ghost/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/include/pico/cyw43_arch/arch_threadsafe_background.h \

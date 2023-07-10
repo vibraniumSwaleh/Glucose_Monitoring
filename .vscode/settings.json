@@ -5,6 +5,10 @@
         "dev_config.h": "c",
         "gui_paint.h": "c",
         "imagedata.h": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c"
     }
 }
